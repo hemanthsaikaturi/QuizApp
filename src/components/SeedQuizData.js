@@ -108,3 +108,4 @@ const SeedQuizData = () => {
 };
 
 export default SeedQuizData;
+  
